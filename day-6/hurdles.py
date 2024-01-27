@@ -18,3 +18,6 @@ def jump():
 for step in range(6):
     jump()   
     
+
+while not at_goal():
+    if wall_in_hy 
